@@ -9,7 +9,7 @@ Feel free to check output images I exported related to analysis and forecasting.
 
 Time Series Plot: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Time%20Series%20Plot.png)
 
-
+1
 
 Forecast Plot:       ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/ForeCast%20Plot%20for%20analysis.png)
 

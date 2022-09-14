@@ -11,11 +11,11 @@ Time Series Plot: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/bl
 
 
 
-Link 2: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/ForeCast%20Plot%20for%20analysis.png)
+Forecast Plot:     ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/ForeCast%20Plot%20for%20analysis.png)
 
 
 
-Link 3: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Forecast%20Plot%20with%20details.png)
+Link 3:       ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Forecast%20Plot%20with%20details.png)
 
 
 Accuray Scores: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Accruacy%20Table.png)

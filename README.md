@@ -12,6 +12,7 @@ It is shown on Time Series Plot that, how it changed accordingly from 1950-1960
 
 
 
+Forecast Plot: Shows the effect of each modelling
 
 ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/ForeCast%20Plot%20for%20analysis.png)
 

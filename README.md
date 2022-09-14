@@ -7,7 +7,7 @@ Feel free to check output images I exported related to analysis and forecasting.
 
 
 
-Link: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Time%20Series%20Plot.png)
+Plot: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Time%20Series%20Plot.png)
 
 
 

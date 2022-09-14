@@ -7,7 +7,7 @@ Feel free to check output images I exported related to analysis and forecasting.
 
 
 
-Plot: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Time%20Series%20Plot.png)
+Time Series Plot: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Time%20Series%20Plot.png)
 
 
 
@@ -18,4 +18,4 @@ Link 2: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Fo
 Link 3: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Forecast%20Plot%20with%20details.png)
 
 
-Link 4: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Accruacy%20Table.png)
+Accuray Scores: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Accruacy%20Table.png)

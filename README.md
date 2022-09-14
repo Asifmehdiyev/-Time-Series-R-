@@ -6,16 +6,18 @@ The dataset I worked with is "Airlines" and purpose was to see changes of count 
 Feel free to check output images I exported related to analysis and forecasting.
 
 
+It is shown on Time Series Plot that, how it changed accordingly from 1950-1960
 
 Time Series Plot: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Time%20Series%20Plot.png)
 
-1
+
+
 
 Forecast Plot:       ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/ForeCast%20Plot%20for%20analysis.png)
 
 
 
-Link 3:           ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Forecast%20Plot%20with%20details.png)
+Link 3:              ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Forecast%20Plot%20with%20details.png)
 
 
 Accuray Scores: ![alt text](https://github.com/Asifmehdiyev/-Time-Series-R-/blob/main/Accruacy%20Table.png)

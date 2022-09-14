@@ -1,11 +1,11 @@
 # **** Import necessary libraries ******
-library(tidymodels)
-library(modeltime)
-library(tidyverse)
-library(lubridate)
-library(timetk)
-library(dygraphs)
-library(zoo)
+library(tidymodels) # (Modelling and analysis purposes)
+library(modeltime) # (Time Series modelling and analysis including ARIMA, Exponential Smoothing and Forecast)
+library(tidyverse) # (Transform and understanding of dataset)
+library(lubridate) # (Used for working with dates and times)
+library(timetk)  # (Visualization, wrangling and feature engineering of time series data)
+library(dygraphs) # (Interactive time series charting library)
+library(zoo)  # (Infrastructure for Regular and Irregular Time Series)
 
 interactive <- FALSE
 
